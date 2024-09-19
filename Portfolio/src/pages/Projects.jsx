@@ -1,7 +1,7 @@
-export default function Resume() {
+export default function Projects() {
     return (
       <div>
-        <h1>Resume</h1>
+        <h1>Projects</h1>
         <p>
           Coming Soon!
         </p>
